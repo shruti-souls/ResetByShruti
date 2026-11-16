@@ -1,5 +1,5 @@
 # RESET by Shruti Solanki — VSL Funnel Copy
-### NO-BRAINER · VSL FUNNEL BUILD mode · v1.1
+### NO-BRAINER · VSL FUNNEL BUILD mode · v1.2
 
 > Sources: `Reset by Shruti Solanki - Strategy & Game Plan.docx.md` + `TRANSFORMATION_STORIES_.md`
 > Doctrine: `~/.claude/system/vsl-funnel-doctrine.md` (read fresh)
